@@ -5,9 +5,9 @@ I'm a 22 old developer who love to spend time learning new things.
 ## Get to know more about me!
 
 * 👩‍💻 I'm a Gentrooper and a Tech Lead at [Gentrop](https://gentrop.com). 💛
-* ✍️ I'm currently learning Golang and trying to evolve my DevOps and Architect techniques.
+* ✍️ I'm currently learning Quality Software Engineering, Golang and trying to evolve my DevOps and Architect techniques.
 * 🎸 I like to play bass at my free time (O M G).
-* 🌎 Currently looking for volunteer work opportunities.
+* 🌎 I'm currently working as a volunteer at [Lacrei](https://www.linkedin.com/company/lacrei).
 * 🌈 I support (and actually am part of) the LGBTQIA+ community.
 * 📺 I'm also a big fan of Animes. My favorite one is My Hero Academia!
 
