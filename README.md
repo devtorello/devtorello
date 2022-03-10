@@ -6,7 +6,7 @@ I'm a 23 old developer who love to spend time learning new things.
 
 * 👩‍💻 I'm a Gentrooper and a Tech Lead at [Gentrop](https://gentrop.com). 💛
 * ✍️ I'm currently learning Quality Software Engineering and trying to evolve my DevOps and Architect techniques.
-* 🎸 I like to play bass at my free time (O M G) and to play video games.
+* 🎸 I like to play bass (O M G) and video games at my free time.
 * 🌈 I support (and actually am part of) the LGBTQIA+ community.
 * 📺 I'm also a big fan of Animes. My favorite one is My Hero Academia!
 
