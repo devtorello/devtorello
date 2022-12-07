@@ -1,11 +1,11 @@
 # Hey, there! You can call me Tati! 😊 ###
 
-I'm a 23 old developer who love to spend time learning new things.
+I'm a 24 old developer who love to spend time learning new things.
 
 ## Get to know more about me!
 
-* 👩‍💻 I'm a Gentrooper and a Tech Lead at [Gentrop](https://gentrop.com). 💛
-* ✍️ I'm currently learning Quality Software Engineering and trying to evolve my DevOps and Architect techniques.
+* 👩‍💻 I'm a Software Engineer at [Nomo](https://nomo.com.br). 💕
+* ✍️ I'm currently improving my knowledge on Systems Architecture, Software Engineering and GraphQL.
 * 🎸 I like to play bass (O M G) and video games at my free time.
 * 🌈 I support (and actually am part of) the LGBTQIA+ community.
 * 📺 I'm also a big fan of Animes. My favorite one is My Hero Academia!
@@ -18,6 +18,7 @@ Here are some of the main things I've learned during my programming journey. Hop
 <a href="https://js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40" alt="TypeScript" /></a>
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" alt="NodeJS" /></a>
+<a href="https://deno.land"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="30" width="40" alt="Deno"/></a>
 <a href="https://jestjs.io/pt-BR/docs/jest-community"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="40" alt="Jest" /></a>
 <a href="https://adonisjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" width="40" alt="AdonisJS" /></a>
 <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="HTML" /></a>
@@ -26,6 +27,8 @@ Here are some of the main things I've learned during my programming journey. Hop
 <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJS" height="30" width="40" /></a>
 <a href="https://webpack.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" width="40" alt="https://webpack.js.org/" /></a>
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" alt="Git" /></a>
+<a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" width="40" alt="Terraform" /></a>
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="40" alt="Docker"></a>
 <a href="https://workspace.google.com/intl/pt-BR/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" alt="Google Workspace" /></a>
 <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="40" alt="Google Cloud Platform" /></a>
 <a href="https://firebase.google.com/?hl=pt"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="40" alt="Firebase" /></a>
@@ -35,6 +38,6 @@ Here are some of the main things I've learned during my programming journey. Hop
 
 ## You can find me on
 
-* 📩 Email: [vitorellotts@gmail.com](vitorellotts@gmail.com).
+* 📩 Email: [tatiana.vitorello@icloud.com](tatiana.vitorello@icloud.com).
 * 💻 Linkedin: [Tatiana Vitorello](https://www.linkedin.com/in/vitorellotatiana/).
 
