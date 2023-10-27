@@ -1,11 +1,11 @@
 # Hey, there! You can call me Tati! 😊 ###
 
-I'm a 24 old developer who love to spend time learning new things.
+I'm a 25 old developer who love to spend time learning new things.
 
 ## Get to know more about me!
 
 * 👩‍💻 I'm a Software Engineer at [Nomo](https://nomo.com.br). 💕
-* ✍️ I'm currently improving my knowledge on Systems Architecture, Software Engineering and GraphQL.
+* ✍️ I'm currently improving my knowledge on Systems Architecture and Software Engineering.
 * 🎸 I like to play bass (O M G) and video games at my free time.
 * 🌈 I support (and actually am part of) the LGBTQIA+ community.
 * 📺 I'm also a big fan of Animes. My favorite one is My Hero Academia!
